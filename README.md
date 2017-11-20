@@ -1,2 +1,2 @@
 # Panoramy
-joining pictures to panoramas 
+processing of movies to panoramas
